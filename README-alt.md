@@ -81,7 +81,7 @@ Python · SQL · FastAPI · Streamlit · TensorFlow · Keras · Scikit-learn · 
       <!-- NumPy -->
       <!-- <img src="https://skillicons.dev/icons?i=numpy" width="48" height="48" alt="NumPy" /> -->
       <!-- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/numpy.svg" width="48" height="48" alt="NumPy" /> -->
-      <div style="align-items: center;">
+      <span style="align-items: center;">
           <!-- NumPy Logo - SVG @ https://techicons.dev/icons/numpy -->
           <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 128 128" fill="none">
               <path
@@ -91,7 +91,7 @@ Python · SQL · FastAPI · Streamlit · TensorFlow · Keras · Scikit-learn · 
                   d="M58.996 62.266l-16.629-8.367v36.14S22.019 46.756 20.14 42.865c-.242-.504-1.242-1.051-1.496-1.188-3.668-1.914-14.355-7.324-14.355-7.324v63.871l14.785 7.926V72.75s20.129 38.676 20.336 39.102c.21.422 2.219 4.492 4.383 5.926 2.87 1.906 15.195 9.316 15.195 9.316z"
                   color="#000" fill="#4c75cf" style="-inkscape-stroke:none"></path>
           </svg>
-      </div>
+      </span>
       <br><strong>NumPy</strong>
     </td>
     <td align="center" width="96">
