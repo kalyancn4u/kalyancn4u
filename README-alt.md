@@ -85,8 +85,6 @@ Python · SQL · FastAPI · Streamlit · TensorFlow · Keras · Scikit-learn · 
       </svg>
       <br><strong>NumPy</strong>
     </td>
-    <!-- img src="https://skillicons.dev/icons?i=numpy" width="48" height="48" alt="NumPy" / -->
-    <!-- NumPy (inline SVG) -->
 
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=pandas" width="48" height="48" alt="Pandas" />
@@ -94,30 +92,11 @@ Python · SQL · FastAPI · Streamlit · TensorFlow · Keras · Scikit-learn · 
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="scikit-learn" />
-      <br><strong>scikit-learn</strong>
+      <br><strong>Scikit-learn</strong>
     </td>
   </tr>
 </table>
 </div>
-
-
-<!-- Pandas -->
-<td align="center" width="96">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" width="48" height="48" alt="Pandas" />
-  <br><strong>Pandas</strong>
-</td>
-
-<!-- Matplotlib -->
-<td align="center" width="96">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/matplotlib.svg" width="48" height="48" alt="Matplotlib" />
-  <br><strong>Matplotlib</strong>
-</td>
-
-<!-- Seaborn -->
-<td align="center" width="96">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/seaborn.svg" width="48" height="48" alt="Seaborn" />
-  <br><strong>Seaborn</strong>
-</td>
 
 <!-- scikit-learn -->
 <td align="center" width="96">
