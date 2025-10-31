@@ -126,7 +126,6 @@ Python · SQL · FastAPI · Streamlit · TensorFlow · Keras · Scikit-learn · 
 </table>
 </div>
 
-
 ### CCC
 
 ### 🌐 Connect with Me
