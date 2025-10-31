@@ -126,6 +126,35 @@ Python · SQL · FastAPI · Streamlit · TensorFlow · Keras · Scikit-learn · 
 </table>
 </div>
 
+### 🧩 Databases & Data Engineering
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      <br><strong>MySQL</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
+      <br><strong>PostgreSQL</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br><strong>MongoDB</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
+      <br><strong>SQLite</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+      <br><strong>Redis</strong>
+    </td>
+  </tr>
+</table>
+</div>
+
 ### CCC
 
 ### 🌐 Connect with Me
