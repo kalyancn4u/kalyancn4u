@@ -85,7 +85,6 @@ Python · SQL · FastAPI · Streamlit · TensorFlow · Keras · Scikit-learn · 
       </svg>
       <br><strong>NumPy</strong>
     </td>
-
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=pandas" width="48" height="48" alt="Pandas" />
       <br><strong>Pandas</strong>
