@@ -93,6 +93,40 @@ Python · SQL · FastAPI · Streamlit · TensorFlow · Keras · Scikit-learn · 
 </table>
 </div>
 
+### ☁️ MLOps, Cloud & DevOps
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <br><strong>Docker</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
+      <br><strong>Kubernetes</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+      <br><strong>AWS</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" />
+      <br><strong>GCP</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" />
+      <br><strong>Azure</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br><strong>Linux</strong>
+    </td>
+  </tr>
+</table>
+</div>
+
+
 ### CCC
 
 ### 🌐 Connect with Me
