@@ -217,7 +217,30 @@ Python · SQL · FastAPI · Streamlit · TensorFlow · Keras · Scikit-learn · 
 </table>
 </div>
 
-### CCC
+### 🧰 Automation, CI/CD & Productivity
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=airflow" width="48" height="48" alt="Airflow" />
+      <br><strong>Airflow</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+      <br><strong>VS Code</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=notion" width="48" height="48" alt="Notion" />
+      <br><strong>Notion</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=markdown" width="48" height="48" alt="Markdown" />
+      <br><strong>Markdown</strong>
+    </td>
+  </tr>
+</table>
+</div>
 
 ### 🌐 Connect with Me
 [LinkedIn](https://www.linkedin.com/in/kalyancn4u) · [Portfolio](https://kalyancn4u.github.io) · [Email](mailto:name@example.com)
