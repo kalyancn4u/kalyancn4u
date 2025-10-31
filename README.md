@@ -25,7 +25,7 @@
 
 ### ⚡ My Tech Stack
 
-Python · SQL · FastAPI · Streamlit · TensorFlow · Scikit-learn · Airflow · Docker · GitHub Actions · AWS
+Python · SQL · FastAPI · Streamlit · TensorFlow · Keras · Scikit-learn · Airflow · Docker · GitHub Actions · AWS
 
 #### 💻 DSML
 
