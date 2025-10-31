@@ -78,11 +78,11 @@ Python · SQL · FastAPI · Streamlit · TensorFlow · Keras · Scikit-learn · 
       <br><strong>PyTorch</strong>
     </td>
     <td align="center" width="96">
-      <img src="assets/numpy-alt.svg" width="48" height="48" alt="NumPy" />
+      <img src="assets/numpy.svg" width="48" height="48" alt="NumPy" />
       <br><strong>NumPy</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=pandas" width="48" height="48" alt="Pandas" />
+      <img src="assets/pandas.svg" width="48" height="48" alt="Pandas" />
       <br><strong>Pandas</strong>
     </td>
     <td align="center" width="96">
