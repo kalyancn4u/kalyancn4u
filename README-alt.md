@@ -66,7 +66,7 @@ Python · SQL · FastAPI · Streamlit · TensorFlow · Keras · Scikit-learn · 
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=jupyter" width="48" height="48" alt="Jupyter" />
+      <img src="assets/jupyter.svg" width="48" height="48" alt="Jupyter" />
       <br><strong>Jupyter</strong>
     </td>
     <td align="center" width="96">
