@@ -27,7 +27,7 @@
 
 Python · SQL · FastAPI · Streamlit · TensorFlow · Keras · Scikit-learn · Airflow · Docker · GitHub Actions · AWS
 
-### Core Languages & Tools
+### 🧠 Core Languages & Tools
 
 <div align="center">
 <table>
@@ -55,6 +55,39 @@ Python · SQL · FastAPI · Streamlit · TensorFlow · Keras · Scikit-learn · 
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
       <br><strong>GitHub Actions</strong>
+    </td>
+  </tr>
+</table>
+</div>
+
+### 📊 Data Science & Machine Learning
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=jupyter" width="48" height="48" alt="Jupyter" />
+      <br><strong>Jupyter</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+      <br><strong>TensorFlow</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
+      <br><strong>PyTorch</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=numpy" width="48" height="48" alt="NumPy" />
+      <br><strong>NumPy</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=pandas" width="48" height="48" alt="Pandas" />
+      <br><strong>Pandas</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="scikit-learn" />
+      <br><strong>scikit-learn</strong>
     </td>
   </tr>
 </table>
