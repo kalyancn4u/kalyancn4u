@@ -93,12 +93,6 @@ Python · SQL · FastAPI · Streamlit · TensorFlow · Keras · Scikit-learn · 
 </table>
 </div>
 
-<!-- scikit-learn -->
-<td align="center" width="96">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scikitlearn.svg" width="48" height="48" alt="Scikit-learn" />
-  <br><strong>Scikit-learn</strong>
-</td>
-
 ### ☁️ MLOps, Cloud & DevOps
 
 <div align="center">
