@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/motirck">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Hi+there%2C+I'm+Kalyan+Narayana+👋;DSML+Aspirant;Always+Learning+%26+Building;Creating+something+amazing!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Hi+there%2C+I'm+Kalyan+Narayana+👋;Always+Learning+%26+Building;Creating+something+amazing!" alt="Typing SVG" />
   </a>
 </div>
 
