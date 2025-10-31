@@ -78,7 +78,7 @@ Python · SQL · FastAPI · Streamlit · TensorFlow · Keras · Scikit-learn · 
       <br><strong>PyTorch</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://assets/numpy.svg" width="48" height="48" alt="NumPy" />
+      <img src="assets/numpy-alt.svg" width="48" height="48" alt="NumPy" />
       <br><strong>NumPy</strong>
     </td>
     <td align="center" width="96">
