@@ -194,23 +194,23 @@ Python · SQL · FastAPI · Streamlit · TensorFlow · Keras · Scikit-learn · 
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=plotly" width="48" height="48" alt="Plotly" />
+      <img src="assets/plotly.svg" width="48" height="48" alt="Plotly" />
       <br><strong>Plotly</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tableau" width="48" height="48" alt="Tableau" />
+      <img src="assets/tableau.svg" width="48" height="48" alt="Tableau" />
       <br><strong>Tableau</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=matplotlib" width="48" height="48" alt="Matplotlib" />
+      <img src="assets/matplotlib.svg" width="48" height="48" alt="Matplotlib" />
       <br><strong>Matplotlib</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=seaborn" width="48" height="48" alt="Seaborn" />
+      <img src="assets/seaborn.svg" width="48" height="48" alt="Seaborn" />
       <br><strong>Seaborn</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=excel" width="48" height="48" alt="Excel" />
+      <img src="assets/excel.svg" width="48" height="48" alt="Excel" />
       <br><strong>Excel</strong>
     </td>
   </tr>
