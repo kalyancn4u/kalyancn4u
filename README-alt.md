@@ -245,6 +245,28 @@ Python · SQL · FastAPI · Streamlit · TensorFlow · Keras · Scikit-learn · 
 ### 🌐 Connect with Me
 [LinkedIn](https://www.linkedin.com/in/kalyancn4u) · [Portfolio](https://kalyancn4u.github.io) · [Email](mailto:name@example.com)
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/kalyancn4u/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/kalyancn4u">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.instagram.com/kalyancn4u/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
+<br>
+
+<div align="center">
+
+### 💡 *"Always learning, always coding, always improving"*
+
+**Thanks for visiting my profile!** ⭐
+
+</div>
+
 ---
 
 ### TODO
