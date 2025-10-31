@@ -18,13 +18,37 @@
 </p>
 
 ### 🧠 Current Focus
+
 - Advancing my expertise in **MLOps & Cloud ML Pipelines**
 - Exploring **Prompt Engineering** and **Generative AI applications**
 - Building **automated analytics dashboards** with Streamlit & FastAPI
 
-### ⚡ Tech Stack
+### ⚡ My Tech Stack
 
 Python · SQL · FastAPI · Streamlit · TensorFlow · Scikit-learn · Airflow · Docker · GitHub Actions · AWS
+
+#### 💻 DSML
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=anaconda" width="48" height="48" alt="C#" />
+      <br><strong>Conda</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt=".NET" />
+      <br><strong>Python</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt=".NET" />
+      <br><strong>Bash</strong>
+    </td>
+  </tr>
+</table>
+</div>
+
+### CCC
 
 ### 🌐 Connect with Me
 [LinkedIn](https://www.linkedin.com/in/kalyancn4u) · [Portfolio](https://kalyancn4u.github.io) · [Email](mailto:name@example.com)
@@ -35,14 +59,11 @@ Python · SQL · FastAPI · Streamlit · TensorFlow · Scikit-learn · Airflow �
 
 ---
 
-A look at the tools and technologies I use to bring ideas to life.
-
-#### 💻 Backend Development
 <div align="center">
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
+      <img src="https://skillicons.dev/icons?i=anaconda" width="48" height="48" alt="C#" />
       <br><strong>C#</strong>
     </td>
     <td align="center" width="96">
