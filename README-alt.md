@@ -202,10 +202,6 @@ Python · SQL · FastAPI · Streamlit · TensorFlow · Keras · Scikit-learn · 
       <br><strong>Plotly</strong>
     </td>
     <td align="center" width="96">
-      <img src="assets/tableau.svg" width="48" height="48" alt="Tableau" />
-      <br><strong>Tableau</strong>
-    </td>
-    <td align="center" width="96">
       <img src="assets/matplotlib.svg" width="48" height="48" alt="Matplotlib" />
       <br><strong>Matplotlib</strong>
     </td>
@@ -216,6 +212,10 @@ Python · SQL · FastAPI · Streamlit · TensorFlow · Keras · Scikit-learn · 
     <td align="center" width="96">
       <img src="assets/excel.svg" width="48" height="48" alt="Excel" />
       <br><strong>Excel</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="assets/tableau.svg" width="48" height="48" alt="Tableau" />
+      <br><strong>Tableau</strong>
     </td>
   </tr>
 </table>
