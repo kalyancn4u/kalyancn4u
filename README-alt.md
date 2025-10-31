@@ -85,7 +85,7 @@ Python · SQL · FastAPI · Streamlit · TensorFlow · Keras · Scikit-learn · 
       </svg>
       <br><strong>NumPy</strong>
     </td>
-    <!-- <img src="https://skillicons.dev/icons?i=numpy" width="48" height="48" alt="NumPy" /> -->
+    <!-- img src="https://skillicons.dev/icons?i=numpy" width="48" height="48" alt="NumPy" / -->
     <!-- NumPy (inline SVG) -->
 
     <td align="center" width="96">
