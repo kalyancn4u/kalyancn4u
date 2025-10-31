@@ -17,32 +17,23 @@
   I'm a DSML Aspirant
 </p>
 
+### 🧠 Current Focus
+- Advancing my expertise in **MLOps & Cloud ML Pipelines**
+- Exploring **Prompt Engineering** and **Generative AI applications**
+- Building **automated analytics dashboards** with Streamlit & FastAPI
+
+### ⚡ Tech Stack
+
+Python · SQL · FastAPI · Streamlit · TensorFlow · Scikit-learn · Airflow · Docker · GitHub Actions · AWS
+
+### 🌐 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/kalyancn4u) · [Portfolio](https://kalyancn4u.github.io) · [Email](mailto:name@example.com)
+
 ---
 
 ### TODO
 
-<div align="center">
-  <a href="https://github.com/motirck">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Hi+there%2C+I'm+Ricardo+👋;Senior+.NET+Developer;Always+Learning+%26+Building;Let's+create+something+amazing!" alt="Typing SVG" />
-  </a>
-</div>
-
-<div align="center">
-
-[![GitHub motirck](https://img.shields.io/github/followers/motirck?label=follow&style=social)](https://github.com/motirck)
-![Profile Views](https://komarev.com/ghpvc/?username=motirck&style=flat-square&color=58A6FF&label=PROFILE+VIEWS)
-
-</div>
-
-<br>
-
-<p align="center">
-  I'm a passionate Full Stack Developer from Timóteo, Brazil, specializing in creating robust and scalable web applications with .NET and Angular. Currently building cool things at <strong><a href="https://insightglobal.com/">Insight Global</a></strong>. I thrive on solving complex problems, and I'm always eager to explore new technologies. I'm currently pursuing an MBA in Full Cycle Architecture at <strong><a href="https://fctech.edu.br/">FCTech</a></strong>.
-</p>
-
 ---
-
-## 🚀 My Tech Stack
 
 A look at the tools and technologies I use to bring ideas to life.
 
