@@ -27,7 +27,7 @@
 
 Python · SQL · FastAPI · Streamlit · TensorFlow · Keras · Scikit-learn · Airflow · Docker · GitHub Actions · AWS
 
-### 🧠 Core Languages & Tools
+### 🛠️ Core Languages & Tools
 
 <div align="center">
 <table>
