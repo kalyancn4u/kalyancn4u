@@ -1,0 +1,18 @@
+<!-- assets/dsml-aspirant.svg -->
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 800 60"
+     width="800" height="60"
+     role="img" aria-label="I'm a DSML Aspirant">
+  <!-- Transparent background -->
+  <rect width="100%" height="100%" fill="none"/>
+  <!-- Centered maroon text at ~H3 size -->
+  <text x="50%" y="50%"
+        fill="#800000"
+        font-size="20"
+        font-weight="700"
+        font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, 'Noto Sans', 'Liberation Sans', sans-serif"
+        text-anchor="middle"
+        dominant-baseline="middle">
+    I'm a DSML Aspirant
+  </text>
+</svg>
