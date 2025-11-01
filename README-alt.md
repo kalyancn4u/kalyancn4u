@@ -246,17 +246,26 @@ Python · SQL · FastAPI · Streamlit · TensorFlow · Keras · Scikit-learn · 
 </table>
 </div>
 
-### 🌐 Connect with Me
+## 📫 Let's Connect!
+### 🌐 Contacts
 [LinkedIn](https://www.linkedin.com/in/kalyancn4u) · [Portfolio](https://kalyancn4u.github.io) · [Email](mailto:name@example.com)
 
 
-
 <p align="center">
+  <a href="mailto:name@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL"/>
+  </a>
   <a href="https://www.linkedin.com/in/kalyancn4u/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/kalyancn4u">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://kalyancn4u.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="GitHub.IO"/>
+  </a>
+  <a href="https://x.com/kalyancn4u">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/>
   </a>
   <a href="https://www.instagram.com/kalyancn4u/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
@@ -275,9 +284,6 @@ Python · SQL · FastAPI · Streamlit · TensorFlow · Keras · Scikit-learn · 
 
 ---
 
-### TODO
-
----
 
 <div align="center">
 <table>
