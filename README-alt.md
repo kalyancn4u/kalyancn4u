@@ -80,7 +80,8 @@
       <br><strong>Pandas</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="scikit-learn" />
+      <!-- img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="scikit-learn" / -->
+      <img src="assets/scikit-learn.svg" width="48" height="48" alt="scikit-learn" />
       <br><strong>Scikit-learn</strong>
     </td>
     <td align="center" width="96">
