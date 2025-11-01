@@ -291,6 +291,8 @@ _Databases & Data Engineering_
 </table>
 </div>
 
+---
+
 ### 📫 Let's Connect!
 
 <p align="center">
