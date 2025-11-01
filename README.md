@@ -14,16 +14,10 @@
 <br>
 
 <div align="center">
-<table>
-  <tr>
-    <td align="center" width="96">
       <img src="assets/dsml-aspirant.svg" />
-      <br><strong>Python</strong>
-    </td>
-  </tr>
-</table>
-
-<p align="center" style="color:#800000;">
+<div>
+  
+<p align="center" style="color:#A30000;">
   <h1 align="center"><strong>I'm a DSML Aspirant!</strong></h1>
 </p>
 
