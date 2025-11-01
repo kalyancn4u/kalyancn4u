@@ -7,7 +7,7 @@
   <rect width="100%" height="100%" fill="none"/>
   <!-- Centered maroon text at ~H3 size -->
   <text x="50%" y="50%"
-        fill="#D10000"
+        fill="#C00000"
         font-size="20"
         font-weight="700"
         font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, 'Noto Sans', 'Liberation Sans', sans-serif"
