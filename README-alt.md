@@ -68,6 +68,10 @@
 <table>
   <tr>
     <td align="center" width="96">
+      <img src="assets/jupyter.svg" width="48" height="48" alt="Jupyter" />
+      <br><strong>Jupyter</strong>
+    </td>
+    <td align="center" width="96">
       <img src="assets/numpy.svg" width="48" height="48" alt="NumPy" />
       <br><strong>NumPy</strong>
     </td>
@@ -84,12 +88,12 @@
       <br><strong>Statsmodels</strong>
     </td>
     <td align="center" width="96">
-      <img src="assets/jupyter.svg" width="48" height="48" alt="Jupyter" />
-      <br><strong>Jupyter</strong>
-    </td>
-    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
       <br><strong>TensorFlow</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="assets/keras.svg" width="48" height="48" alt="Keras" />
+      <br><strong>Keras</strong>
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
