@@ -9,7 +9,7 @@
   <text x="50%" y="50%"
         fill="#009900"
         font-size="18"
-        font-weight="normal"
+        font-weight="light"
         font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, 'Noto Sans', 'Liberation Sans', sans-serif"
         text-anchor="middle"
         dominant-baseline="middle">
