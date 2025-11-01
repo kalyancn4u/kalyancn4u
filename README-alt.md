@@ -274,18 +274,18 @@
       <br><strong>VS Code</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=notion" width="48" height="48" alt="Notion" />
-      <br><strong>Notion</strong>
+      <div style="background-color: white; border-radius: 8px; padding: 2px; display: inline-block;">
+        <img src="https://github.githubassets.com/images/modules/site/copilot/copilot.png" width="55" height="40" alt="GitHub Copilot" />
+      </div>
+      <br><strong>GitHub Copilot</strong>
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=markdown" width="48" height="48" alt="Markdown" />
       <br><strong>Markdown</strong>
     </td>
     <td align="center" width="96">
-      <div style="background-color: white; border-radius: 8px; padding: 2px; display: inline-block;">
-        <img src="https://github.githubassets.com/images/modules/site/copilot/copilot.png" width="55" height="40" alt="GitHub Copilot" />
-      </div>
-      <br><strong>GitHub Copilot</strong>
+      <img src="https://skillicons.dev/icons?i=notion" width="48" height="48" alt="Notion" />
+      <br><strong>Notion</strong>
     </td>
   </tr>
 </table>
@@ -350,6 +350,7 @@
 
 
 #### 🖊️ Project Management & Collaboration
+
 <div align="center">
 <table>
 <tr>
@@ -362,7 +363,7 @@
   <br><strong>Slack</strong>
 </td>
 <td align="center" width="96">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg" width="48" height="48" alt="Microsoft Teams" />
+  <img src="assets/teams.svg" width="48" height="48" alt="Microsoft Teams" />
   <br><strong>Microsoft Teams</strong>
 </td>
 <td align="center" width="96">
