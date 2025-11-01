@@ -80,6 +80,10 @@
       <br><strong>Scikit-learn</strong>
     </td>
     <td align="center" width="96">
+      <img src="assets/statsmodels.svg" width="48" height="48" alt="Statsmodels" />
+      <br><strong>Statsmodels</strong>
+    </td>
+    <td align="center" width="96">
       <img src="assets/jupyter.svg" width="48" height="48" alt="Jupyter" />
       <br><strong>Jupyter</strong>
     </td>
