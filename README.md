@@ -14,7 +14,7 @@
 <br>
 <div align="center">
       <img src="assets/dsml-aspirant.svg" alt="I'm a DSML Aspirant!" />
-<div>
+</div>
 
 ### 🧠 Current Focus
 
