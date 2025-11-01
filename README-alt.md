@@ -246,10 +246,7 @@ Python · SQL · FastAPI · Streamlit · TensorFlow · Keras · Scikit-learn · 
 </table>
 </div>
 
-## 📫 Let's Connect!
-### 🌐 Contacts
-[LinkedIn](https://www.linkedin.com/in/kalyancn4u) · [Portfolio](https://kalyancn4u.github.io) · [Email](mailto:name@example.com)
-
+### 📫 Let's Connect!
 
 <p align="center">
   <a href="mailto:name@example.com" target="_blank">
@@ -506,36 +503,5 @@ A modern, real-time chat application showcasing enterprise-level architecture an
 | **Docker Certified** | **Scrum Master** | **LGPD Compliance** | **Remote Work Pro** | **Lifelong Learner** |
 |:---:|:---:|:---:|:---:|:---:|
 | <img src="https://github.com/Motirck/motirck/assets/57419630/9923a466-a86a-4db2-9ff3-8d6a63d2f500" alt="Docker" height="100"> | <img src="https://github.com/Motirck/motirck/assets/57419630/b565a5a4-e6e5-4c67-b78c-164b4b74ad74" alt="Scrum" height="100"> | <img src="https://github.com/Motirck/motirck/assets/57419630/31e5c984-a326-4918-85ae-8fe87bc5e89c" alt="LGPD" height="100"> | <img src="https://github.com/Motirck/motirck/assets/57419630/ba5fb2ab-1dc9-4ed9-bf7b-be1a45486ec3" alt="Remote Work" height="100"> | <img src="https://github.com/Motirck/motirck/assets/57419630/a374f3b6-c4ca-4b42-8073-3e824856704f" alt="Life Long Learning" height="100"> |
-
-</div>
-
----
-
-## 📫 Let's Connect!
-
-<p align="center">
-  Ready to talk about tech, collaborate on a project, or just say hi? Reach out!
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ricardoalvespaula/">
-    <!-- img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/ -->
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/motirck">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.instagram.com/ricardoalvespaula/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
-
-<br>
-
-<div align="center">
-
-### 💡 *"Always learning, always coding, always improving"*
-
-**Thanks for visiting my profile!** ⭐
 
 </div>
