@@ -170,7 +170,7 @@
 </table>
 </div>
 
-#### 🎨 Frontend Development
+#### 🎨 Front-end Development
 
 <div align="center">
 <table>
@@ -190,6 +190,27 @@
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
       <br><strong>TypeScript</strong>
+    </td>
+  </tr>
+</table>
+</div>
+
+#### 🖥️ Back-end Development
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
+      <br><strong>Flask</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+      <br><strong>FastAPI</strong>
+    </td>
+     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="RabbitMQ" />
+      <br><strong>RabbitMQ</strong>
     </td>
   </tr>
 </table>
@@ -216,17 +237,6 @@
       <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
       <br><strong>Bootstrap</strong>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
-      <br><strong>Flask</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
-      <br><strong>FastAPI</strong>
-    </td>
-     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="RabbitMQ" />
-      <br><strong>RabbitMQ</strong>
     </td>
   </tr>
 </table>
@@ -238,12 +248,12 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="assets/plotly.svg" width="48" height="48" alt="Plotly" />
-      <br><strong>Plotly</strong>
-    </td>
-    <td align="center" width="96">
       <img src="assets/matplotlib.svg" width="48" height="48" alt="Matplotlib" />
       <br><strong>Matplotlib</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="assets/plotly.svg" width="48" height="48" alt="Plotly" />
+      <br><strong>Plotly</strong>
     </td>
     <td align="center" width="96">
       <img src="assets/seaborn.svg" width="48" height="48" alt="Seaborn" />
@@ -288,7 +298,7 @@
 </table>
 </div>
 
-#### 🧰 QA, Automation, CI/CD
+#### 🔁 QA, Automation, CI/CD
 
 <div align="center">
 <table>
@@ -325,9 +335,6 @@
   <a href="https://x.com/kalyancn4u" target="_blank">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/>
   </a>
-  <a href="https://www.instagram.com/kalyancn4u/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
 </p>
 
 <br>
@@ -342,18 +349,14 @@
 
 ---
 
-
-
-
-
 #### 🖊️ Project Management & Collaboration
 
 <div align="center">
 <table>
 <tr>
 <td align="center" width="96">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="48" height="48" alt="Jira" />
-  <br><strong>Jira</strong>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="48" height="48" alt="Google Workspace" />
+  <br><strong>Google Workspace</strong>
 </td>
 <td align="center" width="96">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="48" height="48" alt="Slack" />
@@ -362,14 +365,6 @@
 <td align="center" width="96">
   <img src="assets/teams.svg" width="48" height="48" alt="Microsoft Teams" />
   <br><strong>Microsoft Teams</strong>
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=bitbucket" width="48" height="48" alt="BitBucket" />
-  <br><strong>BitBucket</strong>
-</td>
-<td align="center" width="96">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="48" height="48" alt="Google Workspace" />
-  <br><strong>Google Workspace</strong>
 </td>
 </tr>
 </table>
@@ -381,33 +376,22 @@
 
 - **Microservices Architecture**: Designing scalable and resilient systems.
 - **RESTful APIs**: Building clean and predictable web services.
-- **Real-time Applications**: Leveraging SignalR for instant communication.
-- **Feature Toggles**: Using tools like ConfigCat for controlled rollouts.
-- **Agile & Scrum**: Collaborating effectively to deliver value.
 
 ---
 
 ## 🌟 Featured Project
 
-### 💬 Real-time Chat Application
+### 💬 ChatBot for DRM Application
+
 A modern, real-time chat application showcasing enterprise-level architecture and best practices.
-
-[![Chat App Repository](https://github-readme-stats.vercel.app/api/pin/?username=motirck&repo=chat-app&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&border_color=30363d&show_owner=true)](https://github.com/motirck/chat-app)
-
-**Key Features:**
-- ⚡ **Real-time Messaging**: Built with ASP.NET Core SignalR.
-- 🔐 **Secure Authentication**: Implemented using ASP.NET Identity.
-- 💹 **Stock Quote Bot**: Fetches and displays stock data in chat rooms.
-- 🐰 **Message Brokering**: Decoupled architecture using RabbitMQ.
-- 🧱 **Clean Architecture**: Follows best practices for maintainability and scalability.
 
 ---
 
 ## 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=motirck&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=58a6ff&border_color=30363d" alt="Ricardo's GitHub Stats" height="160em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=motirck&theme=dark&background=0d1117&border=30363d&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="Ricardo's GitHub Streak" height="160em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kalyancn4u&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=58a6ff&border_color=30363d" alt="Kalyan Narayana's GitHub Stats" height="160em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalyancn4u&theme=dark&background=0d1117&border=30363d&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="Kalyan Narayana's GitHub Streak" height="160em"/>
 </div>
 
 ---
@@ -415,18 +399,8 @@ A modern, real-time chat application showcasing enterprise-level architecture an
 ## 🏆 Certifications & Badges
 
 <div align="center">
-
-| **Docker Certified** | **Scrum Master** | **LGPD Compliance** | **Remote Work Pro** | **Lifelong Learner** |
-|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://github.com/Motirck/motirck/assets/57419630/9923a466-a86a-4db2-9ff3-8d6a63d2f500" alt="Docker" height="100"> | <img src="https://github.com/Motirck/motirck/assets/57419630/b565a5a4-e6e5-4c67-b78c-164b4b74ad74" alt="Scrum" height="100"> | <img src="https://github.com/Motirck/motirck/assets/57419630/31e5c984-a326-4918-85ae-8fe87bc5e89c" alt="LGPD" height="100"> | <img src="https://github.com/Motirck/motirck/assets/57419630/ba5fb2ab-1dc9-4ed9-bf7b-be1a45486ec3" alt="Remote Work" height="100"> | <img src="https://github.com/Motirck/motirck/assets/57419630/a374f3b6-c4ca-4b42-8073-3e824856704f" alt="Life Long Learning" height="100"> |
-
+  <!-- TODO -->
 </div>
-
----
-
-Excellent — let’s build a **comprehensive, up-to-date list of all relevant skills** for your GitHub profile, fully reflecting everything you’ve learned and practiced so far.
-
-This summary draws directly from your prior requests, curricula, and projects — in **Data Science, Machine Learning, MLOps, Python, Full-Stack Development, Automation, and Cloud** — and is validated for correctness and GitHub-appropriate presentation.
 
 ---
 
