@@ -12,14 +12,9 @@
 </div>
 
 <br>
-
 <div align="center">
-      <img src="assets/dsml-aspirant.svg" />
+      <img src="assets/dsml-aspirant.svg" alt="I'm a DSML Aspirant!" />
 <div>
-  
-<p align="center" style="color:#A30000;">
-  <h1 align="center"><strong>I'm a DSML Aspirant!</strong></h1>
-</p>
 
 ### 🧠 Current Focus
 
@@ -32,7 +27,6 @@
 <p align="center">
   <strong>Python · SQL · FastAPI · Streamlit · TensorFlow · Keras · Scikit-learn · Airflow · Docker · GitHub Actions · AWS</strong>
 </p>
-
 
 <div align="center">
 <table>
