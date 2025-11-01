@@ -58,10 +58,6 @@
       <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
       <br><strong>GitHub Actions</strong>
     </td>
-     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="RabbitMQ" />
-      <br><strong>RabbitMQ</strong>
-    </td>
   </tr>
 </table>
 </div>
@@ -161,8 +157,7 @@
 </table>
 </div>
 
-
-#### 🌐 Web & App Development
+#### 🎨 Frontend Development
 
 <div align="center">
 <table>
@@ -183,27 +178,23 @@
       <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
       <br><strong>TypeScript</strong>
     </td>
+  </tr>
+</table>
+</div>
+
+#### 🌐 Web & App Development
+
+<div align="center">
+<table>
+  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
       <br><strong>React</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
-      <br><strong>Flask</strong>
+      <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" />
+      <br><strong>Angular</strong>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
-      <br><strong>FastAPI</strong>
-    </td>
-  </tr>
-</table>
-</div>
-
-#### 🎨 Frontend Development
-
-<div align="center">
-<table>
-  <tr>
      <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
       <br><strong>Tailwind</strong>
@@ -213,8 +204,16 @@
       <br><strong>Bootstrap</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" />
-      <br><strong>Angular</strong>
+      <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
+      <br><strong>Flask</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+      <br><strong>FastAPI</strong>
+    </td>
+     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="RabbitMQ" />
+      <br><strong>RabbitMQ</strong>
     </td>
   </tr>
 </table>
