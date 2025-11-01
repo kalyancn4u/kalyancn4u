@@ -170,8 +170,6 @@
 
 #### 🛢️ Databases & Caching
 
-_Databases & Data Engineering_
-
 <div align="center">
 <table>
   <tr>
@@ -266,15 +264,11 @@ _Databases & Data Engineering_
 </table>
 </div>
 
-#### 🧰 Automation, CI/CD & Productivity
+#### 🧰 Productivity, IDEs & Editors
 
 <div align="center">
 <table>
   <tr>
-    <td align="center" width="96">
-      <img src="assets/airflow.svg" width="48" height="48" alt="Airflow" />
-      <br><strong>Airflow</strong>
-    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
       <br><strong>VS Code</strong>
@@ -286,6 +280,29 @@ _Databases & Data Engineering_
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=markdown" width="48" height="48" alt="Markdown" />
       <br><strong>Markdown</strong>
+    </td>
+    <td align="center" width="96">
+      <div style="background-color: white; border-radius: 8px; padding: 2px; display: inline-block;">
+        <img src="https://github.githubassets.com/images/modules/site/copilot/copilot.png" width="55" height="40" alt="GitHub Copilot" />
+      </div>
+      <br><strong>GitHub Copilot</strong>
+    </td>
+  </tr>
+</table>
+</div>
+
+#### 🧰 QA, Automation, CI/CD
+
+<div align="center">
+<table>
+  <tr>
+     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <br><strong>Postman</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="assets/airflow.svg" width="48" height="48" alt="Airflow" />
+      <br><strong>Airflow</strong>
     </td>
   </tr>
 </table>
@@ -331,35 +348,6 @@ _Databases & Data Engineering_
 
 
 
-#### 🛠️ Development Tools & IDEs
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/Rider_icon.svg" width="48" height="48" alt="JetBrains Rider" />
-      <br><strong>Rider</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-      <br><strong>VS Code</strong>
-    </td>
-    <td align="center" width="96">
-      <div style="background-color: white; border-radius: 8px; padding: 2px; display: inline-block;">
-        <img src="https://github.githubassets.com/images/modules/site/copilot/copilot.png" width="55" height="40" alt="GitHub Copilot" />
-      </div>
-      <br><strong>GitHub Copilot</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/AI_icon.svg" width="48" height="48" alt="JetBrains AI" />
-      <br><strong>JetBrains AI</strong>
-    </td>
-     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      <br><strong>Postman</strong>
-    </td>
-  </tr>
-</table>
-</div>
 
 #### 🖊️ Project Management & Collaboration
 <div align="center">
