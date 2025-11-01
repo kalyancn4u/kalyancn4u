@@ -29,19 +29,7 @@
   <strong>Python · SQL · FastAPI · Streamlit · TensorFlow · Keras · Scikit-learn · Airflow · Docker · GitHub Actions · AWS</strong>
 </p>
 
-| Category                      | One-liner                                               |
-| :---------------------------- | :------------------------------------------------------ |
-| **Core**                      | Python · SQL · Bash · Git · GitHub                      |
-| **DS/ML**                     | NumPy · Pandas · Scikit-learn · TensorFlow · Keras      |
-| **AI Domains**                | NLP · Computer Vision · Deep Learning                   |
-| **MLOps / DevOps**            | Airflow · Docker · GitHub Actions · CI/CD · MLOps · AWS |
-| **Full-Stack**                | FastAPI · Flask · Streamlit · React · REST APIs         |
-| **Visualization / BI**        | Matplotlib · Seaborn · Plotly · Tableau                 |
-| **Cloud / Infra**             | AWS · GCP · Linux                                       |
-| **Automation / Productivity** | DVC · Notion · Markdown · Papermill                     |
-
 <div align="center">
-
 <table>
   <thead>
     <tr>
@@ -60,9 +48,7 @@
     <tr><td><strong>Automation / Productivity</strong></td><td>DVC · Notion · Markdown · Papermill</td></tr>
   </tbody>
 </table>
-
 </div>
-
 
 #### 🛠️ Core Languages & Tools
 
