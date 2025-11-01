@@ -14,6 +14,7 @@
 <br>
 <div align="center">
       <img src="assets/dsml-aspirant.svg" alt="I'm a DSML Aspirant!" />
+      <img src="assets/competence-level.svg" alt="Level: BEGINNER!" />
 </div>
 
 ### 🧠 Current Focus
