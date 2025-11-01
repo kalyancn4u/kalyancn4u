@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <span style="font-size: 1.5em;"><strong>I'm a DSML Aspirant!</strong></span>
+  <span style="font-size: 2em;"><strong>I'm a DSML Aspirant!</strong></span>
 </p>
 
 ### 🧠 Current Focus
