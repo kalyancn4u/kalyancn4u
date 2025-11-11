@@ -140,14 +140,17 @@
       <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
       <br><strong>Docker</strong>
     </td>
+    <!-- TODO
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
       <br><strong>Kubernetes</strong>
     </td>
-    <td align="center" width="96">
+ -->
+      <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
       <br><strong>AWS</strong>
     </td>
+                <!-- TODO 
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" />
       <br><strong>GCP</strong>
@@ -156,7 +159,8 @@
       <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" />
       <br><strong>Azure</strong>
     </td>
-    <td align="center" width="96">
+ -->
+        <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=ubuntu" width="48" height="48" alt="Ubuntu" />
       <br><strong>Ubuntu</strong>
     </td>
@@ -235,10 +239,12 @@
       <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
       <br><strong>FastAPI</strong>
     </td>
+                <!-- TODO
      <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="RabbitMQ" />
       <br><strong>RabbitMQ</strong>
     </td>
+ -->
   </tr>
 </table>
 </div>
@@ -260,11 +266,13 @@
       <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
       <br><strong>Tailwind</strong>
     </td>
+                <!-- TODO
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
       <br><strong>Bootstrap</strong>
     </td>
-    </td>
+         -->
+  </td>
   </tr>
 </table>
 </div>
@@ -344,41 +352,6 @@
 
 ---
 
-### 📫 Let's Connect!
-
-<p align="center">
-  <a href="mailto:name@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL"/>
-  </a>
-  <a href="https://www.linkedin.com/in/kalyancn4u/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/kalyancn4u" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://kalyancn4u.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="GitHub.IO"/>
-  </a>
-  <a href="https://x.com/kalyancn4u" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/>
-  </a>
-  <a href="https://www.instagram.com/kalyancn4u/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
-
-<br>
-
-<div align="center">
-
-### 💡 *"Always learning, always coding, always improving"*
-
-**Thanks for visiting my profile!** ⭐
-
-</div>
-
----
-
 #### 🖊️ Project Management & Collaboration
 
 <div align="center">
@@ -409,6 +382,38 @@
 </tr>
 </table>
 </div>
+---
+
+### 📫 Let's Connect!
+<br>
+<p align="center">
+  <a href="mailto:name@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kalyancn4u/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/kalyancn4u" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://kalyancn4u.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="GitHub.IO"/>
+  </a>
+  <a href="https://x.com/kalyancn4u" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://www.instagram.com/kalyancn4u/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
+<br>
+<div align="center">
+### 💡 *"Always learning, always coding, always improving"*
+
+**Thanks for visiting my profile!** ⭐
+</div>
+
 
 ---
 
@@ -435,7 +440,7 @@ A modern, real-time chat application showcasing enterprise-level architecture an
 ### 💬 Real-time Chat Application
 A modern, real-time chat application showcasing enterprise-level architecture and best practices.
 
-[![Chat App Repository](https://github-readme-stats.vercel.app/api/pin/?username=motirck&repo=chat-app&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&border_color=30363d&show_owner=true)](https://github.com/motirck/chat-app)
+[![Chat App Repository](https://github-readme-stats.vercel.app/api/pin/?username=TODO-motirck&repo=chat-app&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&border_color=30363d&show_owner=true)](https://github.com/TODO-motirck/chat-app)
 
 **Key Features:**
 - ⚡ **Real-time Messaging**: Built with ASP.NET Core SignalR.
@@ -468,11 +473,7 @@ A modern, real-time chat application showcasing enterprise-level architecture an
 </div>
 
 ---
-
-# 🧭 **Comprehensive Skill Map for GitHub Profile**
-
-> 🧠 Categorized for clarity · 🧰 Prioritized for impact · 💡 Optimized for GitHub profile sections
-
+# 🧭 **Comprehensive Skill Map**
 ---
 
 ## 🧠 **Programming Languages**
@@ -655,19 +656,6 @@ A modern, real-time chat application showcasing enterprise-level architecture an
 * Continuous Learning & Automation Mindset
 
 ---
-
-## 🏁 **Optional GitHub Section Headings**
-
-For a clean, visual README:
-
-## 🧠 Languages & Foundations
-## 📊 Data Science & ML
-## ⚙️ MLOps / DevOps
-## ☁️ Cloud Platforms
-## 🌐 Web & APIs
-## 📈 Visualization & Analytics
-## 🧩 Data Engineering
-## 🧰 Tools & IDEs
-## 💡 Strengths & Focus
-
+## 🏁 **TODO: Optional Headings**
+### 🧩 Data Engineering
 ---
