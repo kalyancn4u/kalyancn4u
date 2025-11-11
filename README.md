@@ -656,6 +656,6 @@ A modern, real-time chat application showcasing enterprise-level architecture an
 * Continuous Learning & Automation Mindset
 
 ---
-## 🏁 **TODO: Optional Headings**
+## 🏁 **TODO: In Progress**
 ### 🧩 Data Engineering
 ---
