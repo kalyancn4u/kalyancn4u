@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/motirck">
+  <a href="https://github.com/kalyancn4u">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Hi+there%2C+I'm+Kalyan+Narayana+👋;Always+Learning+%26+Building;Creating+something+amazing!" alt="Typing SVG" />
   </a>
 </div>
@@ -12,10 +12,16 @@
 </div>
 
 <br>
-
+<!--
 <p align="center">
   <strong>I'm a DSML Aspirant!</strong>
 </p>
+-->
+
+<div align="center">
+      <img src="assets/icons/dsml-aspirant.svg" alt="I'm a DSML Aspirant!" />
+      <img src="assets/icons/competence-level-begin.svg" alt="Level: BEGINNER!" />
+</div>
 
 ### 🧠 Current Focus
 
@@ -89,24 +95,24 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="assets/jupyter.svg" width="48" height="48" alt="Jupyter" />
+      <img src="assets/icons/jupyter.svg" width="48" height="48" alt="Jupyter" />
       <br><strong>Jupyter</strong>
     </td>
     <td align="center" width="96">
-      <img src="assets/numpy.svg" width="48" height="48" alt="NumPy" />
+      <img src="assets/icons/numpy.svg" width="48" height="48" alt="NumPy" />
       <br><strong>NumPy</strong>
     </td>
     <td align="center" width="96">
-      <img src="assets/pandas.svg" width="48" height="48" alt="Pandas" />
+      <img src="assets/icons/pandas.svg" width="48" height="48" alt="Pandas" />
       <br><strong>Pandas</strong>
     </td>
     <td align="center" width="96">
       <!-- img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="scikit-learn" / -->
-      <img src="assets/scikit-learn.svg" width="48" height="48" alt="scikit-learn" />
+      <img src="assets/icons/scikit-learn.svg" width="48" height="48" alt="scikit-learn" />
       <br><strong>Scikit-learn</strong>
     </td>
     <td align="center" width="96">
-      <img src="assets/statsmodels.svg" width="48" height="48" alt="Statsmodels" />
+      <img src="assets/icons/statsmodels.svg" width="48" height="48" alt="Statsmodels" />
       <br><strong>Statsmodels</strong>
     </td>
     <td align="center" width="96">
@@ -114,7 +120,7 @@
       <br><strong>TensorFlow</strong>
     </td>
     <td align="center" width="96">
-      <img src="assets/keras.svg" width="48" height="48" alt="Keras" />
+      <img src="assets/icons/keras.svg" width="48" height="48" alt="Keras" />
       <br><strong>Keras</strong>
     </td>
     <td align="center" width="96">
@@ -191,7 +197,7 @@
 </table>
 </div>
 
-#### 🎨 Frontend Development
+#### 🎨 Front-end Development
 
 <div align="center">
 <table>
@@ -211,6 +217,27 @@
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
       <br><strong>TypeScript</strong>
+    </td>
+  </tr>
+</table>
+</div>
+
+#### 🖥️ Back-end Development - TODO
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
+      <br><strong>Flask</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+      <br><strong>FastAPI</strong>
+    </td>
+     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="RabbitMQ" />
+      <br><strong>RabbitMQ</strong>
     </td>
   </tr>
 </table>
@@ -237,17 +264,6 @@
       <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
       <br><strong>Bootstrap</strong>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
-      <br><strong>Flask</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
-      <br><strong>FastAPI</strong>
-    </td>
-     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="RabbitMQ" />
-      <br><strong>RabbitMQ</strong>
     </td>
   </tr>
 </table>
@@ -259,23 +275,23 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="assets/plotly.svg" width="48" height="48" alt="Plotly" />
-      <br><strong>Plotly</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="assets/matplotlib.svg" width="48" height="48" alt="Matplotlib" />
+      <img src="assets/icons/matplotlib.svg" width="48" height="48" alt="Matplotlib" />
       <br><strong>Matplotlib</strong>
     </td>
     <td align="center" width="96">
-      <img src="assets/seaborn.svg" width="48" height="48" alt="Seaborn" />
+      <img src="assets/icons/plotly.svg" width="48" height="48" alt="Plotly" />
+      <br><strong>Plotly</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="assets/icons/seaborn.svg" width="48" height="48" alt="Seaborn" />
       <br><strong>Seaborn</strong>
     </td>
     <td align="center" width="96">
-      <img src="assets/excel.svg" width="48" height="48" alt="Excel" />
+      <img src="assets/icons/excel.svg" width="48" height="48" alt="Excel" />
       <br><strong>Excel</strong>
     </td>
     <td align="center" width="96">
-      <img src="assets/tableau.svg" width="48" height="48" alt="Tableau" />
+      <img src="assets/icons/tableau.svg" width="48" height="48" alt="Tableau" />
       <br><strong>Tableau</strong>
     </td>
   </tr>
@@ -309,7 +325,7 @@
 </table>
 </div>
 
-#### 🧰 QA, Automation, CI/CD
+#### 🔁 QA, Automation, CI/CD
 
 <div align="center">
 <table>
@@ -319,7 +335,7 @@
       <br><strong>Postman</strong>
     </td>
     <td align="center" width="96">
-      <img src="assets/airflow.svg" width="48" height="48" alt="Airflow" />
+      <img src="assets/icons/airflow.svg" width="48" height="48" alt="Airflow" />
       <br><strong>Airflow</strong>
     </td>
   </tr>
@@ -363,53 +379,59 @@
 
 ---
 
-
-
-
-
 #### 🖊️ Project Management & Collaboration
 
 <div align="center">
 <table>
 <tr>
 <td align="center" width="96">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="48" height="48" alt="Jira" />
-  <br><strong>Jira</strong>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="48" height="48" alt="Google Workspace" />
+  <br><strong>Google Workspace</strong>
 </td>
 <td align="center" width="96">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="48" height="48" alt="Slack" />
   <br><strong>Slack</strong>
 </td>
 <td align="center" width="96">
-  <img src="assets/teams.svg" width="48" height="48" alt="Microsoft Teams" />
+  <img src="assets/icons/teams.svg" width="48" height="48" alt="Microsoft Teams" />
   <br><strong>Microsoft Teams</strong>
 </td>
+<!--TODO
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=bitbucket" width="48" height="48" alt="BitBucket" />
   <br><strong>BitBucket</strong>
 </td>
 <td align="center" width="96">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="48" height="48" alt="Google Workspace" />
-  <br><strong>Google Workspace</strong>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="48" height="48" alt="Jira" />
+  <br><strong>Jira</strong>
 </td>
+-->
 </tr>
 </table>
 </div>
 
 ---
 
-## 🏗️ Architecture & Methodologies
+## 🏗️ Architecture & Methodologies - TODO
 
 - **Microservices Architecture**: Designing scalable and resilient systems.
 - **RESTful APIs**: Building clean and predictable web services.
+
+<!--
 - **Real-time Applications**: Leveraging SignalR for instant communication.
 - **Feature Toggles**: Using tools like ConfigCat for controlled rollouts.
 - **Agile & Scrum**: Collaborating effectively to deliver value.
+-->
 
 ---
 
 ## 🌟 Featured Project
 
+### 💬 ChatBot for DRM Application - TODO
+
+A modern, real-time chat application showcasing enterprise-level architecture and best practices.
+
+<!--
 ### 💬 Real-time Chat Application
 A modern, real-time chat application showcasing enterprise-level architecture and best practices.
 
@@ -421,14 +443,15 @@ A modern, real-time chat application showcasing enterprise-level architecture an
 - 💹 **Stock Quote Bot**: Fetches and displays stock data in chat rooms.
 - 🐰 **Message Brokering**: Decoupled architecture using RabbitMQ.
 - 🧱 **Clean Architecture**: Follows best practices for maintainability and scalability.
+-->
 
 ---
 
 ## 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=motirck&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=58a6ff&border_color=30363d" alt="Ricardo's GitHub Stats" height="160em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=motirck&theme=dark&background=0d1117&border=30363d&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="Ricardo's GitHub Streak" height="160em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kalyancn4u&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=58a6ff&border_color=30363d" alt="Kalyan Narayana's GitHub Stats" height="160em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalyancn4u&theme=dark&background=0d1117&border=30363d&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="Kalyan Narayana's GitHub Streak" height="160em"/>
 </div>
 
 ---
@@ -436,18 +459,13 @@ A modern, real-time chat application showcasing enterprise-level architecture an
 ## 🏆 Certifications & Badges
 
 <div align="center">
-
+<!-- 
 | **Docker Certified** | **Scrum Master** | **LGPD Compliance** | **Remote Work Pro** | **Lifelong Learner** |
 |:---:|:---:|:---:|:---:|:---:|
 | <img src="https://github.com/Motirck/motirck/assets/57419630/9923a466-a86a-4db2-9ff3-8d6a63d2f500" alt="Docker" height="100"> | <img src="https://github.com/Motirck/motirck/assets/57419630/b565a5a4-e6e5-4c67-b78c-164b4b74ad74" alt="Scrum" height="100"> | <img src="https://github.com/Motirck/motirck/assets/57419630/31e5c984-a326-4918-85ae-8fe87bc5e89c" alt="LGPD" height="100"> | <img src="https://github.com/Motirck/motirck/assets/57419630/ba5fb2ab-1dc9-4ed9-bf7b-be1a45486ec3" alt="Remote Work" height="100"> | <img src="https://github.com/Motirck/motirck/assets/57419630/a374f3b6-c4ca-4b42-8073-3e824856704f" alt="Life Long Learning" height="100"> |
-
+  -->
+  
 </div>
-
----
-
-Excellent — let’s build a **comprehensive, up-to-date list of all relevant skills** for your GitHub profile, fully reflecting everything you’ve learned and practiced so far.
-
-This summary draws directly from your prior requests, curricula, and projects — in **Data Science, Machine Learning, MLOps, Python, Full-Stack Development, Automation, and Cloud** — and is validated for correctness and GitHub-appropriate presentation.
 
 ---
 
