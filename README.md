@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![GitHub motirck](https://img.shields.io/github/followers/kalyancn4u?label=follow&style=social)](https://github.com/kalyancn4u)
+[![GitHub](https://img.shields.io/github/followers/kalyancn4u?label=follow&style=social)](https://github.com/kalyancn4u)
 ![Profile Views](https://komarev.com/ghpvc/?username=kalyancn4u&style=flat-square&color=58A6FF&label=PROFILE+VIEWS)
 
 </div>
