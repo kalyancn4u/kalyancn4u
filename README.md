@@ -13,8 +13,8 @@
 
 <br>
 <div align="center">
-      <img src="assets/dsml-aspirant.svg" alt="I'm a DSML Aspirant!" />
-      <img src="assets/competence-level.svg" alt="Level: BEGINNER!" />
+      <img src="assets/icons/dsml-aspirant.svg" alt="I'm a DSML Aspirant!" />
+      <img src="assets/icons/competence-level-begin.svg" alt="Level: BEGINNER!" />
 </div>
 
 ### 🧠 Current Focus
@@ -89,15 +89,15 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="assets/jupyter.svg" width="48" height="48" alt="Jupyter" />
+      <img src="assets/icons/jupyter.svg" width="48" height="48" alt="Jupyter" />
       <br><strong>Jupyter</strong>
     </td>
     <td align="center" width="96">
-      <img src="assets/numpy.svg" width="48" height="48" alt="NumPy" />
+      <img src="assets/icons/numpy.svg" width="48" height="48" alt="NumPy" />
       <br><strong>NumPy</strong>
     </td>
     <td align="center" width="96">
-      <img src="assets/pandas.svg" width="48" height="48" alt="Pandas" />
+      <img src="assets/icons/pandas.svg" width="48" height="48" alt="Pandas" />
       <br><strong>Pandas</strong>
     </td>
     <td align="center" width="96">
@@ -106,7 +106,7 @@
       <br><strong>Scikit-learn</strong>
     </td>
     <td align="center" width="96">
-      <img src="assets/statsmodels.svg" width="48" height="48" alt="Statsmodels" />
+      <img src="assets/icons/statsmodels.svg" width="48" height="48" alt="Statsmodels" />
       <br><strong>Statsmodels</strong>
     </td>
     <td align="center" width="96">
@@ -114,7 +114,7 @@
       <br><strong>TensorFlow</strong>
     </td>
     <td align="center" width="96">
-      <img src="assets/keras.svg" width="48" height="48" alt="Keras" />
+      <img src="assets/icons/keras.svg" width="48" height="48" alt="Keras" />
       <br><strong>Keras</strong>
     </td>
     <td align="center" width="96">
@@ -269,23 +269,23 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="assets/matplotlib.svg" width="48" height="48" alt="Matplotlib" />
+      <img src="assets/icons/matplotlib.svg" width="48" height="48" alt="Matplotlib" />
       <br><strong>Matplotlib</strong>
     </td>
     <td align="center" width="96">
-      <img src="assets/plotly.svg" width="48" height="48" alt="Plotly" />
+      <img src="assets/icons/plotly.svg" width="48" height="48" alt="Plotly" />
       <br><strong>Plotly</strong>
     </td>
     <td align="center" width="96">
-      <img src="assets/seaborn.svg" width="48" height="48" alt="Seaborn" />
+      <img src="assets/icons/seaborn.svg" width="48" height="48" alt="Seaborn" />
       <br><strong>Seaborn</strong>
     </td>
     <td align="center" width="96">
-      <img src="assets/excel.svg" width="48" height="48" alt="Excel" />
+      <img src="assets/icons/excel.svg" width="48" height="48" alt="Excel" />
       <br><strong>Excel</strong>
     </td>
     <td align="center" width="96">
-      <img src="assets/tableau.svg" width="48" height="48" alt="Tableau" />
+      <img src="assets/icons/tableau.svg" width="48" height="48" alt="Tableau" />
       <br><strong>Tableau</strong>
     </td>
   </tr>
@@ -329,7 +329,7 @@
       <br><strong>Postman</strong>
     </td>
     <td align="center" width="96">
-      <img src="assets/airflow.svg" width="48" height="48" alt="Airflow" />
+      <img src="assets/icons/airflow.svg" width="48" height="48" alt="Airflow" />
       <br><strong>Airflow</strong>
     </td>
   </tr>
@@ -384,7 +384,7 @@
   <br><strong>Slack</strong>
 </td>
 <td align="center" width="96">
-  <img src="assets/teams.svg" width="48" height="48" alt="Microsoft Teams" />
+  <img src="assets/icons/teams.svg" width="48" height="48" alt="Microsoft Teams" />
   <br><strong>Microsoft Teams</strong>
 </td>
 </tr>
