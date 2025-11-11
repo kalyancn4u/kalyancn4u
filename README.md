@@ -478,7 +478,7 @@ A modern, real-time chat application showcasing enterprise-level architecture an
 
 ## 🧠 **Programming Languages**
 
-> Core foundations for your analytical, ML, and full-stack work
+> Core foundations for analytical, ML, and full-stack work
 
 * 🐍 **Python** (core + advanced: OOP, async, decorators, testing, logging)
 * 💻 **SQL / MySQL / PostgreSQL** (DDL, DML, DQL, joins, subqueries, CTEs)
@@ -633,7 +633,7 @@ A modern, real-time chat application showcasing enterprise-level architecture an
 
 ## 🧩 **AI & Emerging Areas**
 
-> Advanced and cutting-edge focus areas you’ve explored
+> Advanced and cutting-edge focus areas explored
 
 * **Large Language Models (LLMs)** — Prompt Engineering, Chain-of-Thought, LangChain
 * **Self-Supervised Learning (SimCLR, BYOL)**
@@ -646,7 +646,7 @@ A modern, real-time chat application showcasing enterprise-level architecture an
 
 ## 💡 **Soft Skills & Core Strengths**
 
-> Essential to your data-driven and engineering mindset
+> Essential to data-driven and engineering mindset
 
 * Analytical Thinking & Problem Solving
 * Communication & Documentation Clarity
