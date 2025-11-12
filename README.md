@@ -382,6 +382,7 @@
 </tr>
 </table>
 </div>
+
 ---
 
 ### 📫 Let's Connect!
@@ -409,11 +410,11 @@
 
 <br>
 <div align="center">
+
 ### 💡 *"Always learning, always coding, always improving"*
 
 **Thanks for visiting my profile!** ⭐
 </div>
-
 
 ---
 
