@@ -671,3 +671,14 @@ For a clean, visual README:
 ## 💡 Strengths & Focus
 
 ---
+## 📋✅ **DONE**
+
+<p align="center">
+  <strong>C · C++ · Make</strong>
+</p>
+
+## ⏳☐ **TODO**
+
+<p align="center">
+  <strong>Java · Go · Azure . Google Cloud · Express · NodeJS · Apache Kafka · NginX · Firebase · Apache Cassandra · GitLab CI · Prometheus · Grafana</strong>
+</p>
