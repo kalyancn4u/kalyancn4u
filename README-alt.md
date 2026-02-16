@@ -20,7 +20,6 @@
 
 <div align="center">
       <img src="assets/icons/dsml-aspirant.svg" alt="I'm a DSML Aspirant!" />
-      <img src="assets/icons/competence-level-begin.svg" alt="Level: BEGINNER!" />
 </div>
 
 ### 🧠 Current Focus
@@ -32,7 +31,7 @@
 ### ⚡ My Tech Stack
 
 <p align="center">
-  <strong>Python · SQL · FastAPI · Streamlit · TensorFlow · Keras · Scikit-learn · Airflow · Docker · GitHub Actions · AWS</strong>
+  <strong> Python · SQL · FastAPI · Streamlit · TensorFlow · Keras · Scikit-learn · Airflow · Docker · GitHub Actions · AWS </strong>
 </p>
 
 <div align="center">
@@ -44,17 +43,31 @@
     </tr>
   </thead>
   <tbody>
-    <tr><td><strong>Core</strong></td><td>Python · SQL · Bash · Git · GitHub</td></tr>
-    <tr><td><strong>DS/ML</strong></td><td>NumPy · Pandas · Scikit-learn · TensorFlow · Keras</td></tr>
-    <tr><td><strong>AI Domains</strong></td><td>NLP · Computer Vision · Deep Learning</td></tr>
-    <tr><td><strong>MLOps / DevOps</strong></td><td>Airflow · Docker · GitHub Actions · CI/CD · MLOps · AWS</td></tr>
-    <tr><td><strong>Full-Stack</strong></td><td>FastAPI · Flask · Streamlit · React · REST APIs</td></tr>
-    <tr><td><strong>Visualization / BI</strong></td><td>Matplotlib · Seaborn · Plotly · Tableau</td></tr>
-    <tr><td><strong>Cloud / Infra</strong></td><td>AWS · GCP · Linux</td></tr>
-    <tr><td><strong>Automation / Productivity</strong></td><td>DVC · Notion · Markdown · Papermill</td></tr>
+    <tr><td>🟢 <strong>Core</strong></td><td>Python · SQL · Bash · Git · GitHub</td></tr>
+    <tr><td>🟢 <strong>DS/ML</strong></td><td>NumPy · Pandas · Scikit-learn · TensorFlow · Keras</td></tr>
+    <tr><td>🟢 <strong>AI Domains</strong></td><td>NLP · Computer Vision · Deep Learning</td></tr>
+    <tr><td>🟢 <strong>MLOps / DevOps</strong></td><td>Airflow · Docker · GitHub Actions · CI/CD · MLOps · AWS</td></tr>
+    <tr><td>🟡 <strong>Full-Stack</strong></td><td>FastAPI · Flask · Streamlit · React · REST APIs</td></tr>
+    <tr><td>🟢 <strong>Visualization / BI</strong></td><td>Matplotlib · Seaborn · Plotly · Tableau</td></tr>
+    <tr><td>🟡 <strong>Cloud / Infra</strong></td><td>AWS · GCP · Linux</td></tr>
+    <tr><td>🟢 <strong>Automation / Productivity</strong></td><td>DVC · Notion · Markdown · Papermill</td></tr>
   </tbody>
 </table>
 </div>
+
+<p align="center">
+<span> ·  ·  · </span>
+<table align="center">
+  <tr>
+    <td align="center"> 🟣 Proficient </td>
+    <td align="center"> 🔵 Advanced </td>
+    <td align="center"> 🟢 Vantage </td>
+    <td align="center"> 🟡 Intermediate </td>
+    <td align="center"> 🟠 Elementary </td>
+    <td align="center"> 🔴 Beginner </td>
+  </tr>
+</table>
+</p>
 
 #### 🛠️ Core Languages & Tools
 
@@ -682,3 +695,14 @@ For a clean, visual README:
 <p align="center">
   <strong>Java · Go · Azure . Google Cloud · Express · NodeJS · Apache Kafka · NginX · Firebase · Apache Cassandra · GitLab CI · Prometheus · Grafana</strong>
 </p>
+
+## ☐ **CEFR English Levels**
+
+| Level | Symbol | GitHub Code |
+| :--- | :---: | :--- |
+| **C2 (Proficiency)** | 🟣 | `:purple_circle:` |
+| **C1 (Advanced)** | 🔵 | `:blue_circle:` |
+| **B2 (Upper Int.)** | 🟢 | `:green_circle:` |
+| **B1 (Intermediate)** | 🟡 | `:yellow_circle:` |
+| **A2 (Elementary)** | 🟠 | `:orange_circle:` |
+| **A1 (Beginner)** | 🔴 | `:red_circle:` |
