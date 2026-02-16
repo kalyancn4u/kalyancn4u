@@ -51,7 +51,7 @@
     <tr><td><strong>Full-Stack</strong></td><td>FastAPI · Flask · Streamlit · React · REST APIs</td></tr>
     <tr><td><strong>Visualization / BI</strong></td><td>Matplotlib · Seaborn · Plotly · Tableau</td></tr>
     <tr><td><strong>Cloud / Infra</strong></td><td>AWS · GCP · Linux</td></tr>
-    <tr><td><strong>Productivity</strong></td><td>DVC · Notion · Markdown · Papermill Automation</td></tr>
+    <tr><td><strong>Automation / Productivity</strong></td><td>DVC · Notion · Markdown · Papermill</td></tr>
   </tbody>
 </table>
 </div -->
@@ -72,7 +72,7 @@
     <tr><td>🟡 <strong>Full-Stack</strong></td><td>FastAPI · Flask · Streamlit · React · REST APIs</td></tr>
     <tr><td>🟢 <strong>Visualization / BI</strong></td><td>Matplotlib · Seaborn · Plotly · Tableau</td></tr>
     <tr><td>🟡 <strong>Cloud / Infra</strong></td><td>AWS · GCP · Linux</td></tr>
-    <tr><td>🟢 <strong>Automation / Productivity</strong></td><td>DVC · Notion · Markdown · Papermill</td></tr>
+    <tr><td>🟢 <strong>Productivity</strong></td><td>Markdown · DVC · Notion · Papermill Automation</td></tr>
   </tbody>
 </table>
 </div>
