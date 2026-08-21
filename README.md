@@ -32,7 +32,7 @@
 ### ⚡ My Tech Stack
 
 <p align="center">
-  <strong>Python · SQL · FastAPI · Streamlit · TensorFlow · Keras · Scikit-learn · Airflow · Docker · GitHub Actions · AWS</strong>
+  <strong> Python · SQL · FastAPI · Streamlit · TensorFlow · Keras · Scikit-learn · Airflow · Docker · GitHub Actions · AWS </strong>
 </p>
 
 <!-- div align="center">
@@ -108,6 +108,12 @@
       <img src="https://skillicons.dev/icons?i=anaconda" width="48" height="48" alt="Anaconda" />
       <br><strong>Anaconda</strong>
     </td>
+    <!--
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cmake" width="48" height="48" alt="CMake" />
+      <br><strong>Cmake</strong>
+    </td>
+    -->
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
       <br><strong>Bash</strong>
@@ -448,14 +454,17 @@
 </p>
 
 <br>
+
 <div align="center">
 
 ### 💡 *"Always learning, always coding, always improving"*
 
 **Thanks for visiting my profile!** ⭐
+
 </div>
 
 ---
+
 
 ## 🏗️ Architecture & Methodologies - TODO
 
@@ -472,9 +481,9 @@
 
 ## 🌟 Featured Project
 
-### 💬 ChatBot for DRM Application - TODO
+### 💬 ChatBot for IDRM
 
-A modern, real-time chat application showcasing enterprise-level architecture and best practices.
+A modern, real-time FAQ Chatbot application showcasing enterprise-level architecture and best practices.
 
 <!--
 ### 💬 Real-time Chat Application
@@ -696,6 +705,10 @@ A modern, real-time chat application showcasing enterprise-level architecture an
 * Continuous Learning & Automation Mindset
 
 ---
+
 ## 🏁 **TODO: In Progress**
+
 ### 🧩 Data Engineering
+
 ---
+
