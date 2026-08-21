@@ -1,12 +1,12 @@
 <div align="center">
   <a href="https://github.com/kalyancn4u">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Hi+there%2C+I'm+Kalyan+Narayana+👋;Always+Learning+%26+Building;Creating+something+amazing!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Hi+there%2C+I'm+Kalyan+Narayana+👋" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
 
-[![GitHub motirck](https://img.shields.io/github/followers/kalyancn4u?label=follow&style=social)](https://github.com/kalyancn4u)
+[![GitHub](https://img.shields.io/github/followers/kalyancn4u?label=follow&style=social)](https://github.com/kalyancn4u)
 ![Profile Views](https://komarev.com/ghpvc/?username=kalyancn4u&style=flat-square&color=58A6FF&label=PROFILE+VIEWS)
 
 </div>
@@ -20,6 +20,7 @@
 
 <div align="center">
       <img src="assets/icons/dsml-aspirant.svg" alt="I'm a DSML Aspirant!" />
+      <!-- img src="assets/icons/competence-level-begin.svg" alt="Level: BEGINNER!" / -->
 </div>
 
 ### 🧠 Current Focus
@@ -34,6 +35,27 @@
   <strong> Python · SQL · FastAPI · Streamlit · TensorFlow · Keras · Scikit-learn · Airflow · Docker · GitHub Actions · AWS </strong>
 </p>
 
+<!-- div align="center">
+<table>
+  <thead>
+    <tr>
+      <th align="center">Category</th>
+      <th align="center">One-liner</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td><strong>Core</strong></td><td>Python · SQL · C · Bash · Make · Git · GitHub</td></tr>
+    <tr><td><strong>DS/ML</strong></td><td>NumPy · Pandas · Scikit-learn · TensorFlow · Keras</td></tr>
+    <tr><td><strong>AI Domains</strong></td><td>NLP · Computer Vision · Deep Learning</td></tr>
+    <tr><td><strong>MLOps / DevOps</strong></td><td>Airflow · Docker · GitHub Actions · CI/CD · MLOps · AWS</td></tr>
+    <tr><td><strong>Full-Stack</strong></td><td>FastAPI · Flask · Streamlit · React · REST APIs</td></tr>
+    <tr><td><strong>Visualization / BI</strong></td><td>Matplotlib · Seaborn · Plotly · Tableau</td></tr>
+    <tr><td><strong>Cloud / Infra</strong></td><td>AWS · GCP · Linux</td></tr>
+    <tr><td><strong>Automation / Productivity</strong></td><td>DVC · Notion · Markdown · Papermill</td></tr>
+  </tbody>
+</table>
+</div -->
+
 <div align="center">
 <table>
   <thead>
@@ -43,14 +65,14 @@
     </tr>
   </thead>
   <tbody>
-    <tr><td>🟢 <strong>Core</strong></td><td>Python · SQL · Bash · Git · GitHub</td></tr>
+    <tr><td>🔵 <strong>Core</strong></td><td>Python · SQL · Bash · Make · Git · GitHub</td></tr>
     <tr><td>🟢 <strong>DS/ML</strong></td><td>NumPy · Pandas · Scikit-learn · TensorFlow · Keras</td></tr>
     <tr><td>🟢 <strong>AI Domains</strong></td><td>NLP · Computer Vision · Deep Learning</td></tr>
     <tr><td>🟢 <strong>MLOps / DevOps</strong></td><td>Airflow · Docker · GitHub Actions · CI/CD · MLOps · AWS</td></tr>
-    <tr><td>🟡 <strong>Full-Stack</strong></td><td>FastAPI · Flask · Streamlit · React · REST APIs</td></tr>
+    <tr><td>🟢 <strong>Full-Stack</strong></td><td>FastAPI · Flask · Streamlit · React · REST APIs</td></tr>
     <tr><td>🟢 <strong>Visualization / BI</strong></td><td>Matplotlib · Seaborn · Plotly · Tableau</td></tr>
-    <tr><td>🟡 <strong>Cloud / Infra</strong></td><td>AWS · GCP · Linux</td></tr>
-    <tr><td>🟢 <strong>Automation / Productivity</strong></td><td>DVC · Notion · Markdown · Papermill</td></tr>
+    <tr><td>🟢 <strong>Cloud / Infra</strong></td><td>AWS · GCP · Linux</td></tr>
+    <tr><td>🟢 <strong>Productivity</strong></td><td>Markdown · DVC · Notion · Papermill Automation</td></tr>
   </tbody>
 </table>
 </div>
@@ -79,6 +101,10 @@
       <br><strong>Python</strong>
     </td>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+      <br><strong>C</strong>
+    </td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=anaconda" width="48" height="48" alt="Anaconda" />
       <br><strong>Anaconda</strong>
     </td>
@@ -87,16 +113,12 @@
       <br><strong>Bash</strong>
     </td>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cmake" width="48" height="48" alt="CMake" />
+      <br><strong>Cmake</strong>
+    </td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br><strong>Git</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-      <br><strong>GitHub</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
-      <br><strong>GitHub Actions</strong>
     </td>
   </tr>
 </table>
@@ -153,14 +175,25 @@
       <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
       <br><strong>Docker</strong>
     </td>
+    <!-- TODO
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
       <br><strong>Kubernetes</strong>
     </td>
-    <td align="center" width="96">
+ -->
+      <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
       <br><strong>AWS</strong>
     </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+      <br><strong>GitHub</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
+      <br><strong>GitHub Actions</strong>
+    </td>
+<!-- TODO 
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" />
       <br><strong>GCP</strong>
@@ -169,13 +202,14 @@
       <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" />
       <br><strong>Azure</strong>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ubuntu" width="48" height="48" alt="Ubuntu" />
-      <br><strong>Ubuntu</strong>
-    </td>
+ -->
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
       <br><strong>Linux</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ubuntu" width="48" height="48" alt="Ubuntu" />
+      <br><strong>Ubuntu</strong>
     </td>
   </tr>
 </table>
@@ -231,6 +265,10 @@
       <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
       <br><strong>TypeScript</strong>
     </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
+      <br><strong>Tailwind</strong>
+    </td>
   </tr>
 </table>
 </div>
@@ -241,6 +279,10 @@
 <table>
   <tr>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bun" width="48" height="48" alt="Bun" />
+      <br><strong>Bun</strong>
+    </td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
       <br><strong>Flask</strong>
     </td>
@@ -248,14 +290,17 @@
       <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
       <br><strong>FastAPI</strong>
     </td>
+                <!-- TODO
      <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="RabbitMQ" />
       <br><strong>RabbitMQ</strong>
     </td>
+ -->
   </tr>
 </table>
 </div>
 
+<!-- TODO
 #### 🌐 Web & App Development
 
 <div align="center">
@@ -277,10 +322,11 @@
       <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
       <br><strong>Bootstrap</strong>
     </td>
-    </td>
+  </td>
   </tr>
 </table>
 </div>
+-->
 
 #### 📈 Data Visualization & Reporting
 
@@ -357,41 +403,6 @@
 
 ---
 
-### 📫 Let's Connect!
-
-<p align="center">
-  <a href="mailto:name@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL"/>
-  </a>
-  <a href="https://www.linkedin.com/in/kalyancn4u/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/kalyancn4u" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://kalyancn4u.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="GitHub.IO"/>
-  </a>
-  <a href="https://x.com/kalyancn4u" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/>
-  </a>
-  <a href="https://www.instagram.com/kalyancn4u/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
-
-<br>
-
-<div align="center">
-
-### 💡 *"Always learning, always coding, always improving"*
-
-**Thanks for visiting my profile!** ⭐
-
-</div>
-
----
-
 #### 🖊️ Project Management & Collaboration
 
 <div align="center">
@@ -425,6 +436,42 @@
 
 ---
 
+### 📫 Let's Connect!
+<br>
+<p align="center">
+  <a href="mailto:name@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kalyancn4u/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/kalyancn4u" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://kalyancn4u.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="GitHub.IO"/>
+  </a>
+  <a href="https://x.com/kalyancn4u" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://www.instagram.com/kalyancn4u/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
+<br>
+
+<div align="center">
+
+### 💡 *"Always learning, always coding, always improving"*
+
+**Thanks for visiting my profile!** ⭐
+
+</div>
+
+---
+
+
 ## 🏗️ Architecture & Methodologies - TODO
 
 - **Microservices Architecture**: Designing scalable and resilient systems.
@@ -438,17 +485,17 @@
 
 ---
 
-## 🌟 Featured Project
+## 🌟 Featured Project - TODO
 
-### 💬 ChatBot for DRM Application - TODO
+### 💬 ChatBot for IDRM
 
-A modern, real-time chat application showcasing enterprise-level architecture and best practices.
+A modern, real-time FAQ Chatbot application showcasing enterprise-level architecture and best practices.
 
 <!--
 ### 💬 Real-time Chat Application
 A modern, real-time chat application showcasing enterprise-level architecture and best practices.
 
-[![Chat App Repository](https://github-readme-stats.vercel.app/api/pin/?username=motirck&repo=chat-app&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&border_color=30363d&show_owner=true)](https://github.com/motirck/chat-app)
+[![Chat App Repository](https://github-readme-stats.vercel.app/api/pin/?username=TODO-motirck&repo=chat-app&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&border_color=30363d&show_owner=true)](https://github.com/TODO-motirck/chat-app)
 
 **Key Features:**
 - ⚡ **Real-time Messaging**: Built with ASP.NET Core SignalR.
@@ -481,6 +528,7 @@ A modern, real-time chat application showcasing enterprise-level architecture an
 </div>
 
 ---
+<!-- TODO
 
 # 🧭 **Comprehensive Skill Map for GitHub Profile**
 
@@ -490,7 +538,7 @@ A modern, real-time chat application showcasing enterprise-level architecture an
 
 ## 🧠 **Programming Languages**
 
-> Core foundations for your analytical, ML, and full-stack work
+> Core foundations for analytical, ML, and full-stack work
 
 * 🐍 **Python** (core + advanced: OOP, async, decorators, testing, logging)
 * 💻 **SQL / MySQL / PostgreSQL** (DDL, DML, DQL, joins, subqueries, CTEs)
@@ -645,7 +693,7 @@ A modern, real-time chat application showcasing enterprise-level architecture an
 
 ## 🧩 **AI & Emerging Areas**
 
-> Advanced and cutting-edge focus areas you’ve explored
+> Advanced and cutting-edge focus areas explored
 
 * **Large Language Models (LLMs)** — Prompt Engineering, Chain-of-Thought, LangChain
 * **Self-Supervised Learning (SimCLR, BYOL)**
@@ -658,7 +706,7 @@ A modern, real-time chat application showcasing enterprise-level architecture an
 
 ## 💡 **Soft Skills & Core Strengths**
 
-> Essential to your data-driven and engineering mindset
+> Essential to data-driven and engineering mindset
 
 * Analytical Thinking & Problem Solving
 * Communication & Documentation Clarity
@@ -666,6 +714,12 @@ A modern, real-time chat application showcasing enterprise-level architecture an
 * Team Collaboration (GitHub, Agile workflows)
 * Technical Writing & Knowledge Sharing
 * Continuous Learning & Automation Mindset
+
+---
+
+## 🏁 **TODO: In Progress**
+
+### 🧩 Data Engineering
 
 ---
 
@@ -706,3 +760,5 @@ For a clean, visual README:
 | **B1 (Intermediate)** | 🟡 | `:yellow_circle:` |
 | **A2 (Elementary)** | 🟠 | `:orange_circle:` |
 | **A1 (Beginner)** | 🔴 | `:red_circle:` |
+
+-->

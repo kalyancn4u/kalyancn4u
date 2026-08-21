@@ -32,7 +32,7 @@
 ### ⚡ My Tech Stack
 
 <p align="center">
-  <strong>Python · SQL · FastAPI · Streamlit · TensorFlow · Keras · Scikit-learn · Airflow · Docker · GitHub Actions · AWS</strong>
+  <strong> Python · SQL · FastAPI · Streamlit · TensorFlow · Keras · Scikit-learn · Airflow · Docker · GitHub Actions · AWS </strong>
 </p>
 
 <!-- div align="center">
@@ -44,7 +44,7 @@
     </tr>
   </thead>
   <tbody>
-    <tr><td><strong>Core</strong></td><td>Python · SQL · Bash · Git · GitHub</td></tr>
+    <tr><td><strong>Core</strong></td><td>Python · SQL · C · Bash · Make · Git · GitHub</td></tr>
     <tr><td><strong>DS/ML</strong></td><td>NumPy · Pandas · Scikit-learn · TensorFlow · Keras</td></tr>
     <tr><td><strong>AI Domains</strong></td><td>NLP · Computer Vision · Deep Learning</td></tr>
     <tr><td><strong>MLOps / DevOps</strong></td><td>Airflow · Docker · GitHub Actions · CI/CD · MLOps · AWS</td></tr>
@@ -65,7 +65,7 @@
     </tr>
   </thead>
   <tbody>
-    <tr><td>🔵 <strong>Core</strong></td><td>Python · SQL · Bash · Git · GitHub</td></tr>
+    <tr><td>🔵 <strong>Core</strong></td><td>Python · SQL · Bash · Make · Git · GitHub</td></tr>
     <tr><td>🟢 <strong>DS/ML</strong></td><td>NumPy · Pandas · Scikit-learn · TensorFlow · Keras</td></tr>
     <tr><td>🟢 <strong>AI Domains</strong></td><td>NLP · Computer Vision · Deep Learning</td></tr>
     <tr><td>🟢 <strong>MLOps / DevOps</strong></td><td>Airflow · Docker · GitHub Actions · CI/CD · MLOps · AWS</td></tr>
@@ -101,6 +101,10 @@
       <br><strong>Python</strong>
     </td>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+      <br><strong>C</strong>
+    </td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=anaconda" width="48" height="48" alt="Anaconda" />
       <br><strong>Anaconda</strong>
     </td>
@@ -109,16 +113,12 @@
       <br><strong>Bash</strong>
     </td>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cmake" width="48" height="48" alt="CMake" />
+      <br><strong>Cmake</strong>
+    </td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br><strong>Git</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-      <br><strong>GitHub</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
-      <br><strong>GitHub Actions</strong>
     </td>
   </tr>
 </table>
@@ -185,7 +185,15 @@
       <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
       <br><strong>AWS</strong>
     </td>
-                <!-- TODO 
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+      <br><strong>GitHub</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
+      <br><strong>GitHub Actions</strong>
+    </td>
+<!-- TODO 
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" />
       <br><strong>GCP</strong>
@@ -195,13 +203,13 @@
       <br><strong>Azure</strong>
     </td>
  -->
-        <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ubuntu" width="48" height="48" alt="Ubuntu" />
-      <br><strong>Ubuntu</strong>
-    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
       <br><strong>Linux</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ubuntu" width="48" height="48" alt="Ubuntu" />
+      <br><strong>Ubuntu</strong>
     </td>
   </tr>
 </table>
@@ -257,6 +265,10 @@
       <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
       <br><strong>TypeScript</strong>
     </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
+      <br><strong>Tailwind</strong>
+    </td>
   </tr>
 </table>
 </div>
@@ -266,6 +278,10 @@
 <div align="center">
 <table>
   <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bun" width="48" height="48" alt="Bun" />
+      <br><strong>Bun</strong>
+    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
       <br><strong>Flask</strong>
@@ -284,6 +300,7 @@
 </table>
 </div>
 
+<!-- TODO
 #### 🌐 Web & App Development
 
 <div align="center">
@@ -301,16 +318,15 @@
       <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
       <br><strong>Tailwind</strong>
     </td>
-                <!-- TODO
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
       <br><strong>Bootstrap</strong>
     </td>
-         -->
   </td>
   </tr>
 </table>
 </div>
+-->
 
 #### 📈 Data Visualization & Reporting
 
@@ -444,14 +460,17 @@
 </p>
 
 <br>
+
 <div align="center">
 
 ### 💡 *"Always learning, always coding, always improving"*
 
 **Thanks for visiting my profile!** ⭐
+
 </div>
 
 ---
+
 
 ## 🏗️ Architecture & Methodologies - TODO
 
@@ -466,11 +485,11 @@
 
 ---
 
-## 🌟 Featured Project
+## 🌟 Featured Project - TODO
 
-### 💬 ChatBot for DRM Application - TODO
+### 💬 ChatBot for IDRM
 
-A modern, real-time chat application showcasing enterprise-level architecture and best practices.
+A modern, real-time FAQ Chatbot application showcasing enterprise-level architecture and best practices.
 
 <!--
 ### 💬 Real-time Chat Application
@@ -509,7 +528,12 @@ A modern, real-time chat application showcasing enterprise-level architecture an
 </div>
 
 ---
-# 🧭 **Comprehensive Skill Map**
+<!-- TODO
+
+# 🧭 **Comprehensive Skill Map for GitHub Profile**
+
+> 🧠 Categorized for clarity · 🧰 Prioritized for impact · 💡 Optimized for GitHub profile sections
+
 ---
 
 ## 🧠 **Programming Languages**
@@ -692,6 +716,49 @@ A modern, real-time chat application showcasing enterprise-level architecture an
 * Continuous Learning & Automation Mindset
 
 ---
+
 ## 🏁 **TODO: In Progress**
+
 ### 🧩 Data Engineering
+
 ---
+
+## 🏁 **Optional GitHub Section Headings**
+
+For a clean, visual README:
+
+## 🧠 Languages & Foundations
+## 📊 Data Science & ML
+## ⚙️ MLOps / DevOps
+## ☁️ Cloud Platforms
+## 🌐 Web & APIs
+## 📈 Visualization & Analytics
+## 🧩 Data Engineering
+## 🧰 Tools & IDEs
+## 💡 Strengths & Focus
+
+---
+## 📋✅ **DONE**
+
+<p align="center">
+  <strong>C · C++ · Make</strong>
+</p>
+
+## ⏳☐ **TODO**
+
+<p align="center">
+  <strong>Java · Go · Azure . Google Cloud · Express · NodeJS · Apache Kafka · NginX · Firebase · Apache Cassandra · GitLab CI · Prometheus · Grafana</strong>
+</p>
+
+## ☐ **CEFR English Levels**
+
+| Level | Symbol | GitHub Code |
+| :--- | :---: | :--- |
+| **C2 (Proficiency)** | 🟣 | `:purple_circle:` |
+| **C1 (Advanced)** | 🔵 | `:blue_circle:` |
+| **B2 (Upper Int.)** | 🟢 | `:green_circle:` |
+| **B1 (Intermediate)** | 🟡 | `:yellow_circle:` |
+| **A2 (Elementary)** | 🟠 | `:orange_circle:` |
+| **A1 (Beginner)** | 🔴 | `:red_circle:` |
+
+-->
