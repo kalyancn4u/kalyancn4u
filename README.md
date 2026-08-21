@@ -273,11 +273,15 @@
 </table>
 </div>
 
-#### 🖥️ Back-end Development - TODO
+#### 🖥️ Back-end Development
 
 <div align="center">
 <table>
   <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bun" width="48" height="48" alt="Bun" />
+      <br><strong>Bun</strong>
+    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
       <br><strong>Flask</strong>
@@ -524,7 +528,12 @@ A modern, real-time chat application showcasing enterprise-level architecture an
 </div>
 
 ---
-# 🧭 **Comprehensive Skill Map**
+<!-- TODO
+
+# 🧭 **Comprehensive Skill Map for GitHub Profile**
+
+> 🧠 Categorized for clarity · 🧰 Prioritized for impact · 💡 Optimized for GitHub profile sections
+
 ---
 
 ## 🧠 **Programming Languages**
@@ -714,3 +723,42 @@ A modern, real-time chat application showcasing enterprise-level architecture an
 
 ---
 
+## 🏁 **Optional GitHub Section Headings**
+
+For a clean, visual README:
+
+## 🧠 Languages & Foundations
+## 📊 Data Science & ML
+## ⚙️ MLOps / DevOps
+## ☁️ Cloud Platforms
+## 🌐 Web & APIs
+## 📈 Visualization & Analytics
+## 🧩 Data Engineering
+## 🧰 Tools & IDEs
+## 💡 Strengths & Focus
+
+---
+## 📋✅ **DONE**
+
+<p align="center">
+  <strong>C · C++ · Make</strong>
+</p>
+
+## ⏳☐ **TODO**
+
+<p align="center">
+  <strong>Java · Go · Azure . Google Cloud · Express · NodeJS · Apache Kafka · NginX · Firebase · Apache Cassandra · GitLab CI · Prometheus · Grafana</strong>
+</p>
+
+## ☐ **CEFR English Levels**
+
+| Level | Symbol | GitHub Code |
+| :--- | :---: | :--- |
+| **C2 (Proficiency)** | 🟣 | `:purple_circle:` |
+| **C1 (Advanced)** | 🔵 | `:blue_circle:` |
+| **B2 (Upper Int.)** | 🟢 | `:green_circle:` |
+| **B1 (Intermediate)** | 🟡 | `:yellow_circle:` |
+| **A2 (Elementary)** | 🟠 | `:orange_circle:` |
+| **A1 (Beginner)** | 🔴 | `:red_circle:` |
+
+-->
