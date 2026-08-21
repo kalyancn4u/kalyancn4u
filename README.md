@@ -89,6 +89,7 @@
     <td align="center"> 🔴 Beginner </td>
   </tr>
 </table>
+<br>
 
 #### 🛠️ Core Languages & Tools
 
