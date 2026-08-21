@@ -25,9 +25,9 @@
 
 ### 🧠 Current Focus
 
-- Advancing my expertise in **MLOps & Cloud ML Pipelines**
-- Exploring **Prompt Engineering** and **Generative AI applications**
-- Building **automated analytics dashboards** with Streamlit & FastAPI
+- Advancing My Expertise in **MLOps & Cloud ML Pipelines**
+- Exploring **Prompt Engineering** and **Generative AI Applications**
+- Building **Automated Analytics Dashboards** with Streamlit & FastAPI
 
 ### ⚡ My Tech Stack
 
@@ -473,9 +473,9 @@
 
 <div align="center">
 
-### 💡 *"Always learning, always coding, always improving"*
+### 💡 *"Always Learning, Always Coding, Always Improving"*
 
-**Thanks for visiting my profile!** ⭐
+**Thanks for Visiting My Profile!** ⭐
 
 </div>
 
