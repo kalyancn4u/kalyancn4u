@@ -44,7 +44,7 @@
     </tr>
   </thead>
   <tbody>
-    <tr><td><strong>Core</strong></td><td>Python · SQL · Bash · Git · GitHub</td></tr>
+    <tr><td><strong>Core</strong></td><td>Python · SQL · C · Bash · Git · GitHub</td></tr>
     <tr><td><strong>DS/ML</strong></td><td>NumPy · Pandas · Scikit-learn · TensorFlow · Keras</td></tr>
     <tr><td><strong>AI Domains</strong></td><td>NLP · Computer Vision · Deep Learning</td></tr>
     <tr><td><strong>MLOps / DevOps</strong></td><td>Airflow · Docker · GitHub Actions · CI/CD · MLOps · AWS</td></tr>
@@ -101,7 +101,7 @@
       <br><strong>Python</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=C" width="48" height="48" alt="C" />
+      <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
       <br><strong>C</strong>
     </td>
     <td align="center" width="96">
