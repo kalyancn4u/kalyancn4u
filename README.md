@@ -44,7 +44,7 @@
     </tr>
   </thead>
   <tbody>
-    <tr><td><strong>Core</strong></td><td>Python · SQL · C · Bash · Git · GitHub</td></tr>
+    <tr><td><strong>Core</strong></td><td>Python · SQL · C · Bash · Make · Git · GitHub</td></tr>
     <tr><td><strong>DS/ML</strong></td><td>NumPy · Pandas · Scikit-learn · TensorFlow · Keras</td></tr>
     <tr><td><strong>AI Domains</strong></td><td>NLP · Computer Vision · Deep Learning</td></tr>
     <tr><td><strong>MLOps / DevOps</strong></td><td>Airflow · Docker · GitHub Actions · CI/CD · MLOps · AWS</td></tr>
@@ -65,7 +65,7 @@
     </tr>
   </thead>
   <tbody>
-    <tr><td>🔵 <strong>Core</strong></td><td>Python · SQL · Bash · Git · GitHub</td></tr>
+    <tr><td>🔵 <strong>Core</strong></td><td>Python · SQL · Bash · Make · Git · GitHub</td></tr>
     <tr><td>🟢 <strong>DS/ML</strong></td><td>NumPy · Pandas · Scikit-learn · TensorFlow · Keras</td></tr>
     <tr><td>🟢 <strong>AI Domains</strong></td><td>NLP · Computer Vision · Deep Learning</td></tr>
     <tr><td>🟢 <strong>MLOps / DevOps</strong></td><td>Airflow · Docker · GitHub Actions · CI/CD · MLOps · AWS</td></tr>
@@ -108,15 +108,13 @@
       <img src="https://skillicons.dev/icons?i=anaconda" width="48" height="48" alt="Anaconda" />
       <br><strong>Anaconda</strong>
     </td>
-    <!--
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cmake" width="48" height="48" alt="CMake" />
-      <br><strong>Cmake</strong>
-    </td>
-    -->
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
       <br><strong>Bash</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cmake" width="48" height="48" alt="CMake" />
+      <br><strong>Cmake</strong>
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
