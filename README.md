@@ -206,12 +206,12 @@
     </td>
  -->
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ubuntu" width="48" height="48" alt="Ubuntu" />
-      <br><strong>Ubuntu</strong>
-    </td>
-    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
       <br><strong>Linux</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ubuntu" width="48" height="48" alt="Ubuntu" />
+      <br><strong>Ubuntu</strong>
     </td>
   </tr>
 </table>
