@@ -123,6 +123,7 @@
   </tr>
 </table>
 </div>
+<br>
 
 #### 📊 Data Science & Machine Learning
 
@@ -165,6 +166,7 @@
   </tr>
 </table>
 </div>
+<br>
 
 #### ☁️ MLOps, Cloud & DevOps
 
@@ -214,6 +216,7 @@
   </tr>
 </table>
 </div>
+<br>
 
 #### 🛢️ Databases & Caching
 
@@ -243,6 +246,7 @@
   </tr>
 </table>
 </div>
+<br>
 
 #### 🎨 Front-end Development
 
@@ -272,6 +276,7 @@
   </tr>
 </table>
 </div>
+<br>
 
 #### 🖥️ Back-end Development
 
@@ -299,6 +304,7 @@
   </tr>
 </table>
 </div>
+<br>
 
 <!-- TODO
 #### 🌐 Web & App Development
@@ -326,6 +332,7 @@
   </tr>
 </table>
 </div>
+<br>
 -->
 
 #### 📈 Data Visualization & Reporting
@@ -356,6 +363,7 @@
   </tr>
 </table>
 </div>
+<br>
 
 #### 🧰 Productivity, IDEs & Editors
 
@@ -383,6 +391,7 @@
   </tr>
 </table>
 </div>
+<br>
 
 #### 🔁 QA, Automation, CI/CD
 
@@ -400,6 +409,7 @@
   </tr>
 </table>
 </div>
+<br>
 
 ---
 
