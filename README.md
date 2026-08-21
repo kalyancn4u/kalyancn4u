@@ -76,9 +76,8 @@
   </tbody>
 </table>
 </div>
-
+<br>
 <p align="center">
-<span> ·  ·  · </span>
 <table align="center">
   <tr>
     <td align="center"> 🟣 Proficient </td>
@@ -89,6 +88,7 @@
     <td align="center"> 🔴 Beginner </td>
   </tr>
 </table>
+<span> ·  ·  · </span>
 </p>
 
 #### 🛠️ Core Languages & Tools
