@@ -76,7 +76,6 @@
   </tbody>
 </table>
 </div>
-<br>
 <p align="center">
 <span> ·  ·  · </span>
 </p>
