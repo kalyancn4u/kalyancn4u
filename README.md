@@ -122,14 +122,6 @@
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br><strong>Git</strong>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-      <br><strong>GitHub</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
-      <br><strong>GitHub Actions</strong>
-    </td>
   </tr>
 </table>
 </div>
@@ -195,7 +187,15 @@
       <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
       <br><strong>AWS</strong>
     </td>
-                <!-- TODO 
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+      <br><strong>GitHub</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
+      <br><strong>GitHub Actions</strong>
+    </td>
+<!-- TODO 
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" />
       <br><strong>GCP</strong>
@@ -205,7 +205,7 @@
       <br><strong>Azure</strong>
     </td>
  -->
-        <td align="center" width="96">
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=ubuntu" width="48" height="48" alt="Ubuntu" />
       <br><strong>Ubuntu</strong>
     </td>
@@ -267,6 +267,10 @@
       <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
       <br><strong>TypeScript</strong>
     </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
+      <br><strong>Tailwind</strong>
+    </td>
   </tr>
 </table>
 </div>
@@ -294,6 +298,7 @@
 </table>
 </div>
 
+<!-- TODO
 #### 🌐 Web & App Development
 
 <div align="center">
@@ -311,16 +316,15 @@
       <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
       <br><strong>Tailwind</strong>
     </td>
-                <!-- TODO
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
       <br><strong>Bootstrap</strong>
     </td>
-         -->
   </td>
   </tr>
 </table>
 </div>
+-->
 
 #### 📈 Data Visualization & Reporting
 
