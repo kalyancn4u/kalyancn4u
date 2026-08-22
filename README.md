@@ -481,11 +481,21 @@
 
 ---
 
-
 ## 🏗️ Architecture & Methodologies - TODO
 
-- **Microservices Architecture**: Designing scalable and resilient systems.
-- **RESTful APIs**: Building clean and predictable web services.
+- **Modular Monolith Architecture** — Design clean, maintainable, and extensible applications with clear separation of concerns, optimized for rapid development and MVPs.
+
+- **RESTful API Design** — Build clean, predictable, secure, and well-documented APIs for robust service integration.
+
+- **Clean Architecture & SOLID Principles** — Develop maintainable, testable, and loosely coupled software with clear architectural boundaries.
+
+- **System Design** — Design scalable, reliable, secure, and high-performance systems while understanding architectural trade-offs.
+
+- **Event-Driven Architecture** — Explore asynchronous, loosely coupled systems using events and messaging.
+
+- **Microservices Architecture** — Design scalable, independently deployable and resilient distributed systems, understanding service boundaries, communication, observability, and trade-offs.
+
+- **Domain-Driven Design (DDD)** — Model complex business domains and align software architecture with meaningful domain boundaries.
 
 <!--
 - **Real-time Applications**: Leveraging SignalR for instant communication.
@@ -495,11 +505,11 @@
 
 ---
 
-## 🌟 Featured Project - TODO
+## 🌟 Featured Project
 
-### 💬 ChatBot for IDRM
+### 💬 FAQ ChatBot
 
-A modern, real-time FAQ Chatbot application showcasing enterprise-level architecture and best practices.
+A modern, local-first semantic FAQ chatbot built with SQLite, Sentence Transformers, FAISS, and Streamlit—featuring production-inspired architecture, semantic search, curated-answer retrieval, confidence-aware responses, and robust software engineering practices, with no generative hallucinations.
 
 <!--
 ### 💬 Real-time Chat Application
@@ -517,12 +527,14 @@ A modern, real-time chat application showcasing enterprise-level architecture an
 
 ---
 
-## 📊 My GitHub Stats
+## 📊 My GitHub Stats - TODO
 
+<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kalyancn4u&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=58a6ff&border_color=30363d" alt="Kalyan Narayana's GitHub Stats" height="160em"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalyancn4u&theme=dark&background=0d1117&border=30363d&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="Kalyan Narayana's GitHub Streak" height="160em"/>
 </div>
+-->
 
 ---
 
